@@ -35,15 +35,7 @@ body {
     
   
 }
-/* Media query for screens smaller than 720px wide */
-    @media (max-width: 719px) {
-      .cw01g {
-        /* Adjust width for smaller screens */
-        width: 80px; /* Example width for smaller screens */
-        /* You can also adjust other properties like height if needed */
-        background-image: url('logo1.svg'); /* Alternate logo for smaller screens */
-      }
-    }
+
 
 hr {
     height: 0;
